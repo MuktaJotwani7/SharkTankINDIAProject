@@ -8,7 +8,8 @@ This project is an interactive Power BI dashboard built using data from *Shark T
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](./Screenshot.png) <!-- Replace with actual image path or link -->
+![Dashboard Screenshot](<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/234d8fe8-e8c5-4d42-8ac8-3ed1c57c934b" />
+) <!-- Replace with actual image path or link -->
 
 ---
 
