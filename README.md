@@ -1,5 +1,4 @@
-# SharkTankINDIAProject
-This project is an interactive Power BI dashboard built using data from *Shark Tank India*. It analyzes startup pitches, investor (shark) participation, funding amounts, and brand performance across episodes.
+
 # 🦈 Shark Tank India – Power BI Dashboard Project
 
 This project is an interactive Power BI dashboard built using data from *Shark Tank India*. It analyzes startup pitches, investor (shark) participation, funding amounts, and brand performance across episodes.
@@ -39,7 +38,6 @@ This project is an interactive Power BI dashboard built using data from *Shark T
 - KPI Cards  
 - Column & Bar Charts  
 - Tables with Conditional Formatting  
----
 
 ## 🧠 Key Learnings
 
@@ -47,16 +45,6 @@ This project is an interactive Power BI dashboard built using data from *Shark T
 - Creating engaging visual stories through data
 - Conditional formatting and data-driven visuals
 - Using Power BI for real-world business intelligence analysis
-
----
-
-## 📂 Project Files
-
-| File | Description |
-|------|-------------|
-| `shark tank india dashbord.pbix` | Power BI project file |
-| `Shark Tank India Dataset.csv` | Source dataset |
-| `README.md` | This file |
 
 ---
 
