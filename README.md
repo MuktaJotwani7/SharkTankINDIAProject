@@ -1,5 +1,7 @@
 
 # 🦈 Shark Tank India – Power BI Dashboard Project
+<img width="1024" height="1536" alt="sharktankidia" src="https://github.com/user-attachments/assets/22573f8f-6d7d-4cc7-b4c8-f6f3bf4cc52d" />
+
 
 This project is an interactive Power BI dashboard built using data from *Shark Tank India*. It analyzes startup pitches, investor (shark) participation, funding amounts, and brand performance across episodes.
 
